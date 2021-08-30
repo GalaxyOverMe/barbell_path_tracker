@@ -7,7 +7,7 @@ reference : https://github.com/nando-nando/barPathTracking
 
 ### how to use
 
-### 1 : set the plate diameters(cm) and save [standard weightlifhting plate diameter is 45cm]
+### 1 : set the plate diameters(cm) and save [standard weight-lifting plate diameter is 45cm]
 ![image](https://user-images.githubusercontent.com/80030558/131345200-0b1e0e1b-5dec-43c0-8663-6ac26b3d86e8.png)
 
 ### 2 : run draw_line.py
